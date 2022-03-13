@@ -22,8 +22,8 @@
         Channel Name: Fahad Tech
 ### Blog Link    
     🔗 https://comewithnew.blogspot.com
-### Portfolio    
-    🔗 http://fahadshahzad.netlify.com
+<!-- ### Portfolio    
+    🔗 http://fahadshahzad.netlify.com -->
     
 
 ### Technologies I am working with:
