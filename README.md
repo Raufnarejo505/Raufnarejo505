@@ -50,7 +50,7 @@ Occasional notes on experiments and evaluation on
 
 ## Contact
 
-abdulrauf@zma-solutions.com
+arauf.bscsses21@iba-suk.edu.pk
 
 Open to research collaborations and ML engineering roles, particularly on evaluation,
 interpretability, or multilingual work.
